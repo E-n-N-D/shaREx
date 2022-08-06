@@ -32,7 +32,7 @@
 # :notebook: Index 
 
 - [About](#high_brightness-About)
-  * [Description](#Description)
+  * [Description](#open_book-Description)
   * [Tools Used](#hammer-Tools-used)
 - [Getting Started](#toolbox-Getting-started)
   * [Prerequisites](#bangbang-Prerequisites)
@@ -50,7 +50,7 @@
 
 ## :high_brightness: About this project
 
-### Description
+### :open_book: Description
 <p>
 </p>
 
