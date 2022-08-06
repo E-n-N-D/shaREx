@@ -54,7 +54,7 @@
 <p>ANKUS MOTE
 </p>
 
-### Tools used
+### :hammer: Tools used
 <p>ANKUS HATTI
 </p>
 
@@ -63,7 +63,7 @@
 ## :toolbox: Getting started
 <p>ANKUSH LAL</p>
 
-### :bangbang:Prerequisites
+### :bangbang: Prerequisites
 <p>ANKUSH SUCKS AT CODING</p>
 
 ```
@@ -74,7 +74,7 @@ rakhne
 thau
 
 ```
-### :gear:Installation
+### :gear: Installation
 
 <p>INSERT CODE FOR ACCESS</p>
 
@@ -84,7 +84,7 @@ ko thulo
 chak
 
 ```
-### :hammer_and_wrench:Building
+### :hammer_and_wrench: Building
 <p>ANKUSH BEECH</p>
 
 ```
@@ -100,7 +100,7 @@ code
 code
 code
 ```
-### :test_tube:Tests
+### :test_tube: Tests
 
 <p>Tests required to prove that ankush is gay</p>
 
@@ -109,7 +109,7 @@ Fook
 CODE
 
 ```
-### :running:Run Locally
+### :running: Run Locally
 
 <p>HEHEHEHHEHEHEHEHEHEHEH LOL</p>
 
@@ -119,7 +119,7 @@ CODES
 
 ```
 
-### :money_with_wings:Deployment
+### :money_with_wings: Deployment
 
 <p>Money Money Money, Deploy and earn money
 <img src="link" align="center" alt="HAHAHAHHA">
