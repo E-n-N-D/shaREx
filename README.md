@@ -131,12 +131,12 @@ code
 
 ## :telephone: Contacts
 <div>
-<img src="src/logo.png" alt="logo" width="20" height="auto" />
- <a href="mailto:sushantadhikari2001@gmail.com">Sushant Adhikari</a>
- <a href="mailto:ankushniroulaa@gmail.com">Ankush Niroula</a>
- <a href="mailto:shubhechchhakp@gmail.com">Shubhechchhak Pokhrel </a>
- <a href="mailto:avyuthan364@gmail.com">Avyuthan Shah</a>
- <a href="mailto:sulavkarki8020@gmail.com">Sulav Karki</a>
+<img src="src/Mail.png" alt="logo" width="69" height="auto"><br>
+ <a href="mailto:sushantadhikari2001@gmail.com">Sushant Adhikari</a><br>
+ <a href="mailto:ankushniroulaa@gmail.com">Ankush Niroula</a><br>
+ <a href="mailto:shubhechchhakp@gmail.com">Shubhechchhak Pokhrel </a><br>
+ <a href="mailto:avyuthan364@gmail.com">Avyuthan Shah</a><br>
+ <a href="mailto:sulavkarki8020@gmail.com">Sulav Karki</a><br>
 </div>
 
 ## :gem: References
