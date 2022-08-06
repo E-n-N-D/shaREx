@@ -3,7 +3,7 @@
 
 <div align="center" >
      <img src="src/logo.png" alt="logo" width="200" height="auto" />
-     <h1>Tagline</h1>
+     <h1>ShaREx</h1>
      <p>A blockchain based file sharing system. </p>
 
 </div>
