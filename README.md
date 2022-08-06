@@ -41,51 +41,47 @@
   * [Testing](#test_tube-running-Tests)
   * [Run Locally](#running-Run-Locally)
   * [Deployment](#money_with_wings-Deployment)
-- [Usage](#eyes-usage)
-- [Contributors](#wave-contributing)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
+- [Usage](#eye_speech_bubble-usage)
+- [Contributors](#writing_hand-Contributing)
+- [Contacts](#telephone-Contacts)
+- [References](#gem-References)
 
 <!--About this project-->
 
 ## :high_brightness: About this project
 
 ### Description
-<p>ANKUS MOTE
+<p>
 </p>
 
 ### :hammer: Tools used
-<p>ANKUS HATTI
+<p>
 </p>
 
 <!--Getting Started-->
 
 ## :toolbox: Getting started
-<p>ANKUSH LAL</p>
+<p></p>
 
 ### :bangbang: Prerequisites
-<p>ANKUSH SUCKS AT CODING</p>
+<p></p>
 
 ```
-yo 
-chai 
+
 code
-rakhne
-thau
+
 
 ```
 ### :gear: Installation
 
-<p>INSERT CODE FOR ACCESS</p>
+<p></p>
 
 ```
-ankush
-ko thulo
-chak
+
 
 ```
 ### :hammer_and_wrench: Building
-<p>ANKUSH BEECH</p>
+<p></p>
 
 ```
 code
@@ -102,28 +98,44 @@ code
 ```
 ### :test_tube: Tests
 
-<p>Tests required to prove that ankush is gay</p>
+<p></p>
 
 ```
-Fook
-CODE
+
 
 ```
 ### :running: Run Locally
 
-<p>HEHEHEHHEHEHEHEHEHEHEH LOL</p>
+<p></p>
 
 ```
-TEST
-CODES
 
 ```
 
 ### :money_with_wings: Deployment
 
-<p>Money Money Money, Deploy and earn money
+<p>
 <img src="link" align="center" alt="HAHAHAHHA">
 </p>
 
+## :eye_speech_bubble: Usuage
+<p>...</p>
+
+## :writing_hand: Contributors
+<div>
+<a href="https://github.com/E-n-N-D/shaREx/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/E-n-N-D/shaREx" alt="contributors" />
+  </a>
+  <p>github links</p>
+</div>
+
+## :telephone: Contacts
+<div>
+</div>
+
+## :gem: References
+<div>
+LINKS
+</div>
 
 
