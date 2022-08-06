@@ -84,10 +84,9 @@ npm install
 Clone the repo
   -To clone this project in your locak device, run the following command.
 
-```wsl
+```bash
 cd folder path where you want to clone this repo
 git clone https://github.com/E-n-N-D/shaREx.git
-
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
