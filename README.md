@@ -35,13 +35,8 @@
 - [Description](#open_book-Description)
 - [Tools Used](#hammer-Tools-used)
 - [Getting Started](#toolbox-Getting-started)
-  * [Prerequisites](#bangbang-Prerequisites)
-  * [Installation](#gear-Installation)
-  * [Building](#hammer_and_wrench-Building)
-  * [Deployment](#money_with_wings-Deployment)
-- [Usuage](#eye_speech_bubble-Usuage)
+- [Deployment](#money_with_wings-Deployment)
 - [Contacts](#telephone-Contacts)
-- [References](#gem-Acknowledgement)
 
 <!--About this project-->
 
@@ -50,19 +45,17 @@
 ## :open_book: Description
 
 Sharex is IPFS based file sharing system where a file is sent over the network via a link. The main idea behind Sharex is that you
-can send file (upto 2 MB) from any device using browser via a link. The QR generated itself is a hash to the particular file that is to be sent over. 
+can send file(any) from any device using browser via a link. The QR generated itself is a hash to the particular file that is to be sent over. 
 
 
 ## :hammer: Tools used
 
 <ul>
 
-<li> IPFS: dependencies 
-        "minimist": "^1.2.5",
-        "web3.storage": "^3.1.0"
+<li> IPFS: InterPlanetary File System
 </li>
 
-<li> React.js </p>
+<li> React.js: A JavaScript framework for UI development </p>
 
 </ul>
 
@@ -70,58 +63,50 @@ can send file (upto 2 MB) from any device using browser via a link. The QR gener
 <!--Getting Started-->
 
 ## :toolbox: Getting started
-
-### :bangbang: Prerequisites
-
-```bash 
-npm install 
-```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### :gear: Installation
-
-
-Clone the repo
-  -To clone this project in your locak device, run the following command.
+<p>
+<ul>
+<li>
+To build this project, you have to have <a href= "https://nodejs.org/en/download/">node</a> installed in your pc. 
+</li>
+<li>
+Clone the repo via following command.
 
 ```bash
-cd folder path where you want to clone this repo
+cd folder-path-where-you-want-to-clone
 git clone https://github.com/E-n-N-D/shaREx.git
 ```
+</li>
+
+<li>
+Install the npm packages (To view the packages used, go to packages.json file )
+
+ ```bash 
+npm install
+```
+</li>
+<li>
+Build the project using the following command
+
+```bash
+npm start
+```
+</li>
+
+</ul>
+</p>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### :hammer_and_wrench: Building
-
-
-```
-code
-code
-code
-```
-
-
-
-```
-code
-code
-code
-```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### :money_with_wings: Deployment
 
+
 <p>
-<img src="link" align="center" alt="HAHAHAHHA">
+Sharex product: <a href = "">LINK HERE</a>
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## :eye_speech_bubble: Usuage
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## :telephone: Contacts
 <div>
@@ -131,13 +116,6 @@ code
  <a href="mailto:shubhechchhakp@gmail.com">Shubhechchhak Pokhrel </a><br>
  <a href="mailto:avyuthan364@gmail.com">Avyuthan Shah</a><br>
  <a href="mailto:sulavkarki8020@gmail.com">Sulav Karki</a><br>
-</div>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## :gem: Acknowledgement
-<div>
-LINKS
 </div>
 
 
