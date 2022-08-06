@@ -41,8 +41,8 @@
   * [Testing](#test_tube-running-Tests)
   * [Run Locally](#running-Run-Locally)
   * [Deployment](#money_with_wings-Deployment)
-- [Usage](#eye_speech_bubble-usage)
-- [Contributors](#writing_hand-Contributing)
+- [Usuage](#eye_speech_bubble-Usuage)
+- [Contributors](#writing_hand-Contributors)
 - [Contacts](#telephone-Contacts)
 - [References](#gem-References)
 
@@ -131,7 +131,7 @@ code
 
 ## :telephone: Contacts
 <div>
-<img src="src/Mail.png" alt="logo" width="69" height="auto"><br>
+<img src="src/Mail.png" alt="logo" width="40" height="auto"><br>
  <a href="mailto:sushantadhikari2001@gmail.com">Sushant Adhikari</a><br>
  <a href="mailto:ankushniroulaa@gmail.com">Ankush Niroula</a><br>
  <a href="mailto:shubhechchhakp@gmail.com">Shubhechchhak Pokhrel </a><br>
