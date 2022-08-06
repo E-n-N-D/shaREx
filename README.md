@@ -1,6 +1,6 @@
 <!--Just Share It
      Blockchain based file sharing system-->
-
+<a name="readme-top"></a>
 <div align="center" >
      <img src="src/logo.png" alt="logo" width="200" height="auto" />
      <h2>Share your file securely</h2>
@@ -31,57 +31,69 @@
 
 # :notebook: Index 
 
-- [About](#high_brightness-About)
-  * [Description](#open_book-Description)
-  * [Tools Used](#hammer-Tools-used)
+
+- [Description](#open_book-Description)
+- [Tools Used](#hammer-Tools-used)
 - [Getting Started](#toolbox-Getting-started)
   * [Prerequisites](#bangbang-Prerequisites)
   * [Installation](#gear-Installation)
   * [Building](#hammer_and_wrench-Building)
-  * [Testing](#test_tube-running-Tests)
-  * [Run Locally](#running-Run-Locally)
   * [Deployment](#money_with_wings-Deployment)
 - [Usuage](#eye_speech_bubble-Usuage)
-- [Contributors](#writing_hand-Contributors)
 - [Contacts](#telephone-Contacts)
-- [References](#gem-References)
+- [References](#gem-Acknowledgement)
 
 <!--About this project-->
 
-## :high_brightness: About this project
 
-### :open_book: Description
-<p>
-</p>
 
-### :hammer: Tools used
-<p>
-</p>
+## :open_book: Description
 
+Sharex is IPFS based file sharing system where a file is sent over the network via a link. The main idea behind Sharex is that you
+can send file (upto 2 MB) from any device using browser via a link. The QR generated itself is a hash to the particular file that is to be sent over. 
+
+
+## :hammer: Tools used
+
+<ul>
+
+<li> IPFS: dependencies 
+        "minimist": "^1.2.5",
+        "web3.storage": "^3.1.0"
+</li>
+
+<li> React.js </p>
+
+</ul>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!--Getting Started-->
 
 ## :toolbox: Getting started
-<p></p>
 
 ### :bangbang: Prerequisites
-<p></p>
 
+```bash 
+npm install 
 ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-code
-
-
-```
 ### :gear: Installation
 
-<p></p>
+
+Clone the repo
+  -To clone this project in your locak device, run the following command.
+
+```wsl
+cd folder path where you want to clone this repo
+git clone https://github.com/E-n-N-D/shaREx.git
 
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-```
 ### :hammer_and_wrench: Building
-<p></p>
+
 
 ```
 code
@@ -89,28 +101,15 @@ code
 code
 ```
 
-<p>Another code if required</p>
+
 
 ```
 code
 code
 code
 ```
-### :test_tube: Tests
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p></p>
-
-```
-
-
-```
-### :running: Run Locally
-
-<p></p>
-
-```
-
-```
 
 ### :money_with_wings: Deployment
 
@@ -118,16 +117,12 @@ code
 <img src="link" align="center" alt="HAHAHAHHA">
 </p>
 
-## :eye_speech_bubble: Usuage
-<p>...</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## :writing_hand: Contributors
-<div>
-<a href="https://github.com/E-n-N-D/shaREx/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/E-n-N-D/shaREx" alt="contributors" />
-  </a>
-  <p>github links</p>
-</div>
+## :eye_speech_bubble: Usuage
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## :telephone: Contacts
 <div>
@@ -139,9 +134,12 @@ code
  <a href="mailto:sulavkarki8020@gmail.com">Sulav Karki</a><br>
 </div>
 
-## :gem: References
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## :gem: Acknowledgement
 <div>
 LINKS
 </div>
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
