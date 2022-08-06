@@ -100,7 +100,7 @@ npm start
 
 ### :money_with_wings: Deployment
 
-<img src="src/Mail.png" alt="logo" width="auto" height="auto" align="center">
+<img src="src/site.jpg" alt="logo" width="auto" height="auto" align="center">
 <p>
 Sharex product: <a href = "">LINK HERE</a>
 </p>
