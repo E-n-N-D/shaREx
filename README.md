@@ -31,20 +31,99 @@
 
 # :notebook: Index 
 
-- [About](#About)
+- [About](#high_brightness-About)
   * [Description](#Description)
-  * [Built With](#)
-- [Getting Started](#toolbox-getting-started)
-  * [Prerequisites](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
+  * [Tools Used](#hammer-Tools-used)
+- [Getting Started](#toolbox-Getting-started)
+  * [Prerequisites](#bangbang-Prerequisites)
+  * [Installation](#gear-Installation)
   * [Building](#hammer_and_wrench-Building)
-  * [Testing](#test_tube-running-tests)
-  * [Run Locally](#running-run-locally)
-  * [Deployment](#triangular_flag_on_post-deployment)
+  * [Testing](#test_tube-running-Tests)
+  * [Run Locally](#running-Run-Locally)
+  * [Deployment](#money_with_wings-Deployment)
 - [Usage](#eyes-usage)
 - [Contributors](#wave-contributing)
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
+
+<!--About this project-->
+
+## :high_brightness: About this project
+
+### Description
+<p>ANKUS MOTE
+</p>
+
+### Tools used
+<p>ANKUS HATTI
+</p>
+
+<!--Getting Started-->
+
+## :toolbox: Getting started
+<p>ANKUSH LAL</p>
+
+### :bangbang:Prerequisites
+<p>ANKUSH SUCKS AT CODING</p>
+
+```
+yo 
+chai 
+code
+rakhne
+thau
+
+```
+### :gear:Installation
+
+<p>INSERT CODE FOR ACCESS</p>
+
+```
+ankush
+ko thulo
+chak
+
+```
+### :hammer_and_wrench:Building
+<p>ANKUSH BEECH</p>
+
+```
+code
+code
+code
+```
+
+<p>Another code if required</p>
+
+```
+code
+code
+code
+```
+### :test_tube:Tests
+
+<p>Tests required to prove that ankush is gay</p>
+
+```
+Fook
+CODE
+
+```
+### :running:Run Locally
+
+<p>HEHEHEHHEHEHEHEHEHEHEH LOL</p>
+
+```
+TEST
+CODES
+
+```
+
+### :money_with_wings:Deployment
+
+<p>Money Money Money, Deploy and earn money
+<img src="link" align="center" alt="HAHAHAHHA">
+</p>
 
 
 
