@@ -26,3 +26,25 @@
 
 </div>
 
+<br/>
+<!--Table of Contents-->
+
+# :notebook_with_decorative_cover: Index 
+
+- [About](#About)
+  * [Description](#Description)
+  * [Built With](#)
+- [Getting Started](#toolbox-getting-started)
+  * [Prerequisites](#bangbang-prerequisites)
+  * [Installation](#gear-installation)
+  * [Building](#hammer_and_wrench-Building)
+  * [Testing](#test_tube-running-tests)
+  * [Run Locally](#running-run-locally)
+  * [Deployment](#triangular_flag_on_post-deployment)
+- [Usage](#eyes-usage)
+- [Contributors](#wave-contributing)
+- [Contact](#handshake-contact)
+- [Acknowledgements](#gem-acknowledgements)
+
+
+
