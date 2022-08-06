@@ -41,8 +41,8 @@ class App extends Component {
     return (
       <div className="App">
         <Header data={this.state.data.main} />
-{//<Portfolio data={this.state.data.portfolio} />
-   }   <Footer data={this.state.data.main} />
+<Portfolio data={this.state.data.portfolio} />
+      <Footer data={this.state.data.main} />
         
       </div>
     );
